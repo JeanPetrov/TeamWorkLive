@@ -3,7 +3,7 @@
 Colaborators: Jean Petrov
               Alex Zlatanov
               Elka Dimitrova
-Stage 0 – Jean Petrov create Repository \n
+Stage 0 – Jean Petrov create Repository
 Stage 1 Task 1 – HTML & CSS: index.html - Elka Dimitrova
 Stage 1, Task 2 – Front-end: prodavachnik.js - Elka Dimitrova
 Stage 2, Task 1 – Styles and Users: index.html, prodavachnik.css - Jean Petrov
