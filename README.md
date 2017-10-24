@@ -15,7 +15,13 @@ Stage 2, Task 3 – Styles and Users: api.js - Jean Petrov
 Stage 3, Task 1 – Load Advertisements: index.html, prodavachnik.js, api.js - Alex Zlatanov
 Stage 3, Task 2 – Load Advertisements: api.js - Elka Dimitrova
 
-Stage 4, Task 0 – Brach into Notifications - Jean Petrov creates the branch and pushes it to the remote
+Stage 4, Task 0 – Brach into Notifications - Jean Petrov creates the branch and pushes it to the remote 
+(first pull any changes from Stage 3, then with bash:
+git branch Notifications
+git checkout Notifications
+git push origin Notifications
+)
+
 Stage 4, Task 1 – Notifications: index.html, prodavachnik.js - Alex Zlatanov
 Stage 4, Task 2 – Notifications: index.html, prodavachnik.js, prodavachnik.css - Elka Dimitrova
 
@@ -28,4 +34,8 @@ Stage 6, Task 0 – Brach into Detailed-View - Jean Petrov creates the branch an
 Stage 6, Task 1 – Detailed View: index.html - Jean Petrov
 Stage 6, Task 2 – Detailed View: prodavachnik.js - Alex Zlatanov
 Stage 6, Task 3 – Detailed View: api.js - Elka Dimitrova
+
+Stage 7, Task 1 – Merge Notifications into master - Jean Petrov
+Stage 7, Task 2 – Merge Create-Edit-Ads into master - Alex Zlatanov
+Stage 7, Task 3 – Merge Detailed-View into master - Elka Dimitrova
 
